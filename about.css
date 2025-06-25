@@ -5,10 +5,11 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    text-align: left;
+    text-align: center;
 }
 
 h1 {
+    color: #7e8151;
     font-family: 'Kanit', sans-serif;
 }
 
