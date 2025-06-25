@@ -5,7 +5,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    text-align: left;
+    text-align: center;
 }
 
 h1 {
@@ -24,12 +24,12 @@ p {
 }
 
 nav a {
-    color: #55e9d5;
+    color: #faecdb;
     text-decoration: none;
     font-family: 'Courier New', Courier, monospace;
 }
 nav a:hover {
-    color: #55ffe8;
+    color: #f1c899;
 }
 
 a {
