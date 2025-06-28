@@ -47,7 +47,26 @@ video{
     border-radius: 10px;
 }
 
+form {
+    color: #7c83eb;
+    font-family: 'Kanit', sans-serif;
+}
+
+input {
+    border-radius: 5px;
+    border-color: beige;
+}
+
+textarea {
+    border-radius: 5px;
+    color: beige;
+}
+
 footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     background-color: black;
     color: #16a581;
     text-align: center;
